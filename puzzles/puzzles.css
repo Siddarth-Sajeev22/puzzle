@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    
+}
+
+body .content h1{
+    font-size: 7vmax;
+    font-weight: 900;
+    margin : 100px;
+
+}
+
+
+body .content h2{
+    font-size: 4vmax;
+    font-weight: 300;
+    margin : 100px;
+
+}
+
+.btn{
+    border-radius: 10;
+    width: 10vw;
+    height : 10vh;
+    font-size: medium;
+    cursor: pointer;
+}
